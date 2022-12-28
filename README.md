@@ -17,7 +17,7 @@ Projeto feito através do curso promovido pela UDEMY para ensino de tecnologias 
 <br>
 
 <p align="center">
-  <img alt="Site Finans" src=".github/preview.jpg" width="100%">
+  <img alt="Site Finans" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
